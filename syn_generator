@@ -8,4 +8,4 @@ dst_port = 80
 ip = IP(src=src_ip, dst=dst_ip)
 tcp = TCP(sport=src_port, dport=dst_port, flags="S")
 data = Raw("\x58"*64)
-send(ip / tcp / data, loop=1, verbose=0)
+send(ip / tcp / data, loop=1)
