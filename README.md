@@ -1,7 +1,7 @@
 # generators
 
 Python + scapy
-Generators for educational purposes. 
+generators for educational purposes. 
 1. NTP generator
 2. DNS generator
 3. TCP Syn generator
