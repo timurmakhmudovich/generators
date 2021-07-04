@@ -8,3 +8,5 @@ Generators for educational purposes.
 
 The package tcpreplay should be installed for fast rate:
 - sudo apt-get install tcpreplay
+
+An example of a randomizer shows how to get different values of a variable at each iteration of program execution by storing a function call in a variable.
